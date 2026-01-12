@@ -1,4 +1,4 @@
-# HostelNow 🏠
+# HOSTELNOW
 
 A comprehensive MERN stack property rental platform designed for hostel and accommodation bookings. HostelNow provides a seamless experience for property owners to list their properties and for users to search, book, and review accommodations.
 
@@ -372,7 +372,7 @@ Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+If you need help or have questions, please open an issue in this repository.
 
 ---
 
