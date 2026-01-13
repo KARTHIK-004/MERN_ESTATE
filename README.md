@@ -3,7 +3,6 @@
 A comprehensive MERN stack property rental platform designed for hostel and accommodation bookings. HostelNow provides a seamless experience for property owners to list their properties and for users to search, book, and review accommodations.
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
-![License](https://img.shields.io/badge/License-ISC-blue)
 
 ## 📋 Table of Contents
 
@@ -353,14 +352,6 @@ Contributions are welcome! Please follow these steps:
 - Use meaningful variable and function names
 - Write clean, readable code with proper comments
 - Test your changes before submitting
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
-## 👨‍💻 Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
